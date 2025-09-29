@@ -8,3 +8,7 @@ The workflow:
 4. Pass the results into **OpenAI LLM** for answering user queries.  
 
 ---
+
+Pre-requisites:
+1. Have the OpenAI key in the .env
+2. Do `pip install -r requirements.txt`
